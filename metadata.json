@@ -1,29 +1,5 @@
 {
-    "name": "blimpcoin",
-    "symbol": "BLMP",
-    "decimals": 6,
-    "seller_fee_basis_points": 500,
-    "creators": [
-      {
-        "address": "",
-        "share": 100
-      }
-    ],
-    "supply": 1000000000,
-    "max_supply": 10000000000,
-    "image": "https://github.com/iloveeggsandwiches/crypto-icon/icon-min.png",
-    "description": "just for fun",
-    "external_url": "",
-    "animation_url": "",
-    "attributes": [
-      {
-        "trait_type": "Color",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Background",
-        "value": "Cloudy"
-      }
-    ]
-  }
-  
+	"name": "blimpcoin",
+	"symbol": "BLMP"
+	"image": "https://raw.githubusercontent.com/iloveeggsandwiches/crypto-icon/main/icon-min.png"
+}
